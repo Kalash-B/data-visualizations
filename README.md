@@ -108,7 +108,7 @@ Used visualizations such as:
 Replace the image path below with your own screenshot.
 
 ```md
-![Assignment Dashboard](image/assignment-dashboard.png)
+![Assignment Dashboard](./image/assignment-dashboard.png)
 ```
 
 ---
@@ -132,7 +132,7 @@ Developed an interactive dashboard using the Northwind Traders sample database.
 ### Snapshot
 
 ```md
-![Northwind Dashboard](image/northwind-dashboard.png)
+![Northwind Dashboard](./image/northwind-dashboard.png)
 ```
 
 ---
@@ -154,7 +154,7 @@ Built an interactive dashboard to analyze Netflix content.
 ### Snapshot
 
 ```md
-![Netflix Dashboard](image/netflix-dashboard.png)
+![Netflix Dashboard](./image/netflix-dashboard.png)
 ```
 
 ---
@@ -177,7 +177,7 @@ Analyzed worldwide COVID-19 data using Power BI.
 ### Snapshot
 
 ```md
-![COVID Dashboard](image/covid-dashboard.png)
+![COVID Dashboard](./image/covid-dashboard.png)
 ```
 
 ---
@@ -199,7 +199,7 @@ Created a dashboard to analyze coffee shop sales and business performance.
 ### Snapshot
 
 ```md
-![Coffee Shop Dashboard](image/coffee-dashboard.png)
+![Coffee Shop Dashboard](./image/coffee-dashboard.png)
 ```
 
 ---
