@@ -108,7 +108,7 @@ Used visualizations such as:
 Replace the image path below with your own screenshot.
 
 ```md
-![Assignment Dashboard](./image/assignment-dashboard.png)
+![Assignment Dashboard](https://raw.githubusercontent.com/Kalash-B/data-visualizations/main/image/assignment-dashboard.png)
 ```
 
 ---
